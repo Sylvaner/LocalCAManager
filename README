@@ -1,0 +1,4 @@
+== Installation ==
+
+Python3
+pip install prompt_toolkit
